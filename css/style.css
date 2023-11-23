@@ -96,7 +96,7 @@ textarea {
     color: #f0f9ff; }
     .heading-sec__main--lt::after {
       content: '';
-      background: #172554 !important; }
+      background: #2e1065 !important; }
   .heading-sec__main::after {
     content: '';
     position: absolute;
@@ -137,7 +137,7 @@ textarea {
   width: 92%; }
 
 .btn {
-  background: #172554;
+  background: #2e1065;
   color: #be185d;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -155,11 +155,11 @@ textarea {
     padding: 1.5rem 5rem;
     font-size: 1.6rem; }
   .btn--theme {
-    background: #172554;
+    background: #2e1065;
     color: #f0f9ff; }
   .btn--theme-inv {
     color: #f0f9ff;
-    background: #172554;
+    background: #2e1065;
     border: 2px solid #0c4a6e;
     box-shadow: none;
     padding: calc(1.5rem - 2px) calc(5rem - 2px); }
@@ -328,7 +328,7 @@ textarea {
   background-position: center; }
   .contact__form-container {
     box-shadow: 0 0 10px #082f49;
-    background: #172554;
+    background: #2e1065;
     padding: 4rem;
     margin-top: 6rem;
     max-width: 80rem;
@@ -500,7 +500,7 @@ textarea {
   width: 100%;
   z-index: 1000;
   background: #082f49;
-  background: #172554;
+  background: #2e1065;
   box-shadow: 0 10px 100px #082f49; }
   .header__content {
     display: flex;
@@ -517,7 +517,7 @@ textarea {
     color: #be185d;
     transition: color .3s; }
     .header__logo-container:hover {
-      color: #0c4a6e; }
+      color: #e0f2fe; }
   .header__logo-img-cont {
     width: 5rem;
     height: 5rem;
@@ -556,7 +556,7 @@ textarea {
     font-weight: 700;
     transition: color .3s; }
     .header__link:hover {
-      color: #0c4a6e; }
+      color: #e0f2fe; }
     @media only screen and (max-width: 56.25em) {
       .header__link {
         padding: 3rem 1.8rem;
@@ -573,7 +573,7 @@ textarea {
   .header__main-ham-menu-close {
     width: 100%; }
   .header__sm-menu {
-    background: #172554;
+    background: #2e1065;
     position: absolute;
     width: 100%;
     top: 100%;
